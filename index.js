@@ -14,4 +14,9 @@ i++
 }
 return newFacts
 }
-
+function iLoveTheBeatles(number){
+  var x = []
+  do(x.push["I love the Beatles!"]){
+    
+  }
+}
